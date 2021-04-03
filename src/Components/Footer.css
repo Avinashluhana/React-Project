@@ -1,0 +1,23 @@
+
+.social-media h2{
+    display: inline;
+    padding: 20px;
+    justify-content: center;
+}
+.social-media{
+    text-align: center;
+}
+
+a .fab:hover{
+    transform: translateY(-10px);
+    margin-left: 5px;
+    
+
+}
+.copy-right{
+    text-align: center;
+}
+
+/* .main {
+    position: relative;
+} */

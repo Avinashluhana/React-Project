@@ -1,0 +1,16 @@
+
+
+.card-body:hover{
+    box-shadow: 1px 2px 3px 4px white !important;
+    
+}
+.card-title, .card-text{
+    color:black;
+}
+.card-body{
+    /* background-color: rgb(236, 240, 241); */
+    background-color: white;
+}
+.button{
+    text-align: center;
+}
